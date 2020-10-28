@@ -13,7 +13,7 @@ My intention was to make sure you can checkout these practice tests from GitHub 
 
 Please don't hesitate to contact me should you find this repositry useful or have some feedback for me as to improve this course! I am always open to hear from you (as a matter of fact, I will be delighted to hear from you!)
 
-## Purchase The course 
+## Purchase the Course 
 
 If you are serious in getting certified and wishing to sit for an exam with some practice, my [Become a Certified Python Programmer: PCEP Practice Tests] (https://www.udemy.com/course/pcep-certified/?referralCode=BE4B3F05B99BD64076FA) course on Udemy will surely provide the springboard. I have put in  extra effort to get this course for you all! If you like the course, do drop a review :)
 
@@ -23,7 +23,7 @@ Connect with me on LinkedIn(https://www.linkedin.com/in/madhusudhankonda) or Twi
 
 ## What is PCEP Certification?
 
-PCEP Python Entry Level Programmer certification is your first step into the world of Python. Python is the world's top most popular programming language, used extensively in Artificial Intelligence and Data Sciences as well as in general-purpose computing area. Getting professional accreditation in Python is surely a feather in your programmer's hat and a strong step in your professional career.
+The [PCEP Python Entry Level Programmer certification](https://pythoninstitute.org/certification/pcep-certification-entry-level/) is your first step into the world of Python. Python is the world's top most popular programming language, used extensively in Artificial Intelligence and Data Sciences as well as in general-purpose computing area. Getting professional accreditation in Python is surely a feather in your programmer's hat and a strong step in your professional career. The [syllabus](https://pythoninstitute.org/certification/pcep-certification-entry-level/pcep-exam-syllabus/) for this certification is available on Python Institute. 
 
 ## What does this course offer you?
 
