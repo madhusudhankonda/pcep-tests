@@ -15,11 +15,11 @@ Please don't hesitate to contact me should you find this repositry useful or hav
 
 ## Purchase the Course 
 
-If you are serious in getting certified and wishing to sit for an exam with some practice, my [Become a Certified Python Programmer: PCEP Practice Tests] (https://www.udemy.com/course/pcep-certified/?referralCode=BE4B3F05B99BD64076FA) course on Udemy will surely provide the springboard. I have put in  extra effort to get this course for you all! If you like the course, do drop a review :)
+If you are serious in getting certified and wishing to sit for an exam with some practice, my [Become a Certified Python Programmer: PCEP Practice Tests](https://www.udemy.com/course/pcep-certified/?referralCode=BE4B3F05B99BD64076FA) course on Udemy will surely provide the springboard. I have put in  extra effort to get this course for you all! If you like the course, do drop a review :)
 
 ## Connect with me!
 
-Connect with me on LinkedIn(https://www.linkedin.com/in/madhusudhankonda) or Twitter(http://twitter.com/@mkonda007).  I am always happy to have a chat (coffee if you are in London!)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/madhusudhankonda) or [Twitter](http://twitter.com/@mkonda007).  I am always happy to have a chat (coffee if you are in London!)
 
 ## What is PCEP Certification?
 
@@ -40,6 +40,8 @@ This course consists of 6 practice tests similar to what you see in a real certi
 * Data Collections (7 Questions): Collections(lists, tuples, dictionaries), basic methods(insert, append, sorted, del, index ), iterating over collections, working with lists, dictionaries and tuples, and more.
 
 * Functions (6 Questions): Defining functions, parameters (positional, multi-argument and keyword), return from a function, default function parameters, scopes and global, recursive functions and others
+
+The official syllabus is [here](https://pythoninstitute.org/certification/pcep-certification-entry-level/pcep-exam-syllabus)
 
 ## What does PCEP Certification Entail?
 
